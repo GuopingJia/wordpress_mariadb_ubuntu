@@ -1,2 +1,3 @@
-# wordpress_mariadb_ubuntu
+# Wordpress Mariadb on Ubuntu
+
 WordPress MariaDB Ubuntu Deployment
